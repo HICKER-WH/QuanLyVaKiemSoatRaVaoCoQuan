@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|e:\\t07\\he thong nhung\\quanlyvakiemsoatravaocoquan\\quanlyravao\\project01\\models\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\datalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\enumsw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\enumsw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\typeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\typeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\rolegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\rolegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\datalogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\datalogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\models\\dbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\models\\dbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\appcoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\appcoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\addroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\addroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\addroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\addroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\addtypeemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\addtypeemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\addemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\addemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\manageremployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\manageremployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\addemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\addemployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\manageremployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\manageremployeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\form\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\responsitoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\responsitoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\responsitorytypeemloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\responsitorytypeemloyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\responsitorydatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\responsitorydatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\controls\\appcorebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\controls\\appcorebackend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\beep.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\beep.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\project01\\qr.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{45CE9884-A5AA-470E-8E31-4D21F37B7E1F}|Project01\\Project01.csproj|solutionrelative:project01\\qr.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Employee.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\Employee.cs",
+              "RelativeToolTip": "Project01\\Models\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:50:28.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\User.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\User.cs",
+              "RelativeToolTip": "Project01\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:44:37.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enumSW.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\enumSW.cs",
+              "RelativeDocumentMoniker": "Project01\\enumSW.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\enumSW.cs",
+              "RelativeToolTip": "Project01\\enumSW.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:49:51.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeEmployee.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\TypeEmployee.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\TypeEmployee.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\TypeEmployee.cs",
+              "RelativeToolTip": "Project01\\Models\\TypeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:44:35.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datalog.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\Datalog.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\Datalog.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\Datalog.cs",
+              "RelativeToolTip": "Project01\\Models\\Datalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\BaseModel.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Project01\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:21.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleGroup.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\RoleGroup.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\RoleGroup.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\RoleGroup.cs",
+              "RelativeToolTip": "Project01\\Models\\RoleGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:10.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatalogsDTO.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\DatalogsDTO.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\DatalogsDTO.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\DatalogsDTO.cs",
+              "RelativeToolTip": "Project01\\Models\\DatalogsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:41.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmReport.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmReport.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmReport.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmReport.cs",
+              "RelativeToolTip": "Project01\\Form\\FrmReport.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:47:17.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\DataBase.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\DataBase.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\DataBase.cs",
+              "RelativeToolTip": "Project01\\Controls\\DataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:07.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppCoreUI.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\AppCoreUI.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\AppCoreUI.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\AppCoreUI.cs",
+              "RelativeToolTip": "Project01\\Controls\\AppCoreUI.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:05.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbStore.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\DbStore.cs",
+              "RelativeDocumentMoniker": "Project01\\Models\\DbStore.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Models\\DbStore.cs",
+              "RelativeToolTip": "Project01\\Models\\DbStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:12.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSetting.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmSetting.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmSetting.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmSetting.cs",
+              "RelativeToolTip": "Project01\\Form\\FrmSetting.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAUwB8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:54:40.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddUser.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddUser.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\AddUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:49:38.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddTypeEmployeeFrm.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddTypeEmployeeFrm.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddTypeEmployeeFrm.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\AddTypeEmployeeFrm.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\AddTypeEmployeeFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:28.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddRoleUser.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddRoleUser.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddRoleUser.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\AddRoleUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\AddRoleUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:30.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmSetting.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmSetting.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmSetting.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\FrmSetting.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\FrmSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:54:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddRoleUser.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddRoleUser.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddRoleUser.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddRoleUser.cs",
+              "RelativeToolTip": "Project01\\Form\\AddRoleUser.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:02:09.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEmployeeFrm.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddEmployeeFrm.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddEmployeeFrm.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QRcode_8_10_Final\\Project01\\Form\\AddEmployeeFrm.cs [Design]",
+              "RelativeToolTip": "..\\QRcode_8_10_Final\\Project01\\Form\\AddEmployeeFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:51:32.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddUser.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddUser.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddUser.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddUser.cs",
+              "RelativeToolTip": "Project01\\Form\\AddUser.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:49:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerEmployeeFrm.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\ManagerEmployeeFrm.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\ManagerEmployeeFrm.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\ManagerEmployeeFrm.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\ManagerEmployeeFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:49:35.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmReport.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmReport.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmReport.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\FrmReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\FrmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:47:12.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmLogIn.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmLogIn.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmLogIn.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\FrmLogIn.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\FrmLogIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:34:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmHome.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\Form\\FrmHome.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\Form\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:17:53.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddEmployeeFrm.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddEmployeeFrm.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\AddEmployeeFrm.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\AddEmployeeFrm.cs",
+              "RelativeToolTip": "Project01\\Form\\AddEmployeeFrm.cs",
+              "ViewState": "AgIAAC8BAAAAAAAAAIAwwEgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:17:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManagerEmployeeFrm.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\ManagerEmployeeFrm.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\ManagerEmployeeFrm.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\ManagerEmployeeFrm.cs",
+              "RelativeToolTip": "Project01\\Form\\ManagerEmployeeFrm.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAawFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:52:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Project01\\FrmMain.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode_8_10_Final\\Project01\\FrmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\QRcode_8_10_Final\\Project01\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:58.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Project01\\FrmMain.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\FrmMain.cs",
+              "RelativeToolTip": "Project01\\FrmMain.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAkwO0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:48:02.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmHome.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmHome.cs",
+              "RelativeToolTip": "Project01\\Form\\FrmHome.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:17:58.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmLogIn.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmLogIn.cs",
+              "RelativeDocumentMoniker": "Project01\\Form\\FrmLogIn.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Form\\FrmLogIn.cs",
+              "RelativeToolTip": "Project01\\Form\\FrmLogIn.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:36:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResponsitoryUser.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryUser.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\ResponsitoryUser.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryUser.cs",
+              "RelativeToolTip": "Project01\\Controls\\ResponsitoryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:17:06.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ResponsitoryDatalog.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryDatalog.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\ResponsitoryDatalog.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryDatalog.cs",
+              "RelativeToolTip": "Project01\\Controls\\ResponsitoryDatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:44:56.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResponsitoryTypeEmloyee.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryTypeEmloyee.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\ResponsitoryTypeEmloyee.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\ResponsitoryTypeEmloyee.cs",
+              "RelativeToolTip": "Project01\\Controls\\ResponsitoryTypeEmloyee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:44:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppCoreBackEnd.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\AppCoreBackEnd.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\AppCoreBackEnd.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\AppCoreBackEnd.cs",
+              "RelativeToolTip": "Project01\\Controls\\AppCoreBackEnd.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:03.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Project01\\Controls\\GenericRepository.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Controls\\GenericRepository.cs",
+              "RelativeToolTip": "Project01\\Controls\\GenericRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "beep.wav",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\beep.wav",
+              "RelativeDocumentMoniker": "Project01\\beep.wav",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\beep.wav",
+              "RelativeToolTip": "Project01\\beep.wav",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALoSURBVDhPrVRLbxJRFP54DgJtkSIFpY/UlEJp03YhsQmJCxNj3LmQrow/oPEn1K0bY7oy7cbGRZcuTBMf1cSYCEkl2ibQF0RrKQ00lFfoQNuBwTPDSOVlXPglJ3fmzDnffPfccy7\u002BKyqVikx6hNFoNFut1n7ptS1yuVwqkUhESwTJ1Rper3cmEonw\u002B/v7fDQabWk/d3fLS0tLPrfbfUNGkFJbY3p6eiadTvN/Q7FQ4EOhELe8vOwfGxtzS6l1kEtrDVSG9lYNUUxNTblfLC4\u002BJ9JrVdc5mghb4VUwg7kPMZR4IJ/PY29vT36xu3vk0ezsgl6vH5TCRLQkbFSWOAUebxaxkiyjb2AAWq0WqVQKtt5eq0qlclGKuprZQChsqZFMMINWAbtRhWehJOIVLex2O8bHx2EymeQKpVJHaSqRgNCgUKRssizHwcGc4FaXGp8ix\u002BD5svQNMnnDadcTUgwJarIOBjiQn8Jp0KJSktX8rdBAeL7NE47H\u002Bx8sHn5MYy7Iw8XosZ3IQ60Q1AmhrRnbbjkQP4X3TQYLOyy\u002Bxgo4Zku4OdiBey7DH3HNqD8UiqnwgkKqsoKH7sIZcHYCdS6P6x0auGw6mAxMNa41X6NCAUJkBSN0qi9vX8K7u1fw\u002Bn4vvJ7LkFP5aWCIjBqyjUKFtGJ0dNTNcdwd6iv4fD58j4ShLGRg08pw1aTF07knsFot2NjYxNHRERhGhfn5hcK3tbW3BZbdIQpO4KlTaDabEYsd0CREcXh4iHK5LDZxIBDA0NAQgsEgbDabSLi6\u002BgUTExOUVa\u002B0jrC/vw/hcFgk7uzsBMseQ1C8vr4GnU4Hujyg0TBIJpPY2tqGw\u002BGQMs\u002BhlFYRFosFw8N2UmNHsVgUayUQejwe0RePx2mrDCYnJ5HNZsWfKOSKOlG1Lu/p6XE4nc4H1F9yJY0TFV9sOGEQhJ4jH4Q79fdgCD6KKfn9/hWq/WdysYK/8ZLsItOQ1Yb9H1Aky5CRAOAXvPiZo6l2iV0AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-14T01:44:17.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\packages.config",
+              "RelativeDocumentMoniker": "Project01\\packages.config",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\packages.config",
+              "RelativeToolTip": "Project01\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-03T13:52:16.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Project01\\Program.cs",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\Program.cs",
+              "RelativeToolTip": "Project01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:14:56.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "qr.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "E:\\T07\\He Thong Nhung\\QuanLyVaKiemSoatRaVaoCoQuan\\QuanLyRaVao\\Project01\\qr.ico",
+              "RelativeDocumentMoniker": "Project01\\qr.ico",
+              "ToolTip": "E:\\T07\\He Thong Nhung\\QRcode\\Project01\\qr.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "..\\..\\QRcode\\Project01\\qr.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-10-02T13:30:11.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

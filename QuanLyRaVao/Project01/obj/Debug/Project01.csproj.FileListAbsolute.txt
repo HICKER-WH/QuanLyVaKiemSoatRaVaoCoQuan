@@ -1,0 +1,1619 @@
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.exe.config
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmConfirm.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmDashboard.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmHome.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmInformation.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.FrmChild.FrmLoading.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmMasterData.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmReport.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmSetting.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.FrmChild.ReCombobox.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.ReComboboxFGs.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.UCTextbox3.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.FrmChild.UCTextBox4.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.FrmMain.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CheckWeigherFood.UCTextDateTime.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Project01.exe.config
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Project01.exe
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\IoTClient.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Irony.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\XLParser.dll
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\IoTClient.pdb
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\IoTClient.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.IO.Packaging.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.csproj.Up2Date
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.exe
+C:\Users\Administrator\Desktop\Project01\CheckWeigherFood\obj\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Project01.exe.config
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Project01.exe
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\IoTClient.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Irony.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\QRCoder.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\XLParser.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\IoTClient.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\IoTClient.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.IO.Packaging.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.AddUser.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmHome.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmReport.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmChild.FrmSetting.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.FrmMain.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.UC.UcCheckbox.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.UC.UcCheckBoxs.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.csproj.Up2Date
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.exe
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\CheckWeigherFood\obj\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe.config
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Irony.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\QRCoder.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\XLParser.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmMain.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.Up2Date
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.exe
+C:\Users\Administrator\Desktop\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe.config
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Irony.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\QRCoder.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.core.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\XLParser.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.dll
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.pdb
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.xml
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmMain.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.Properties.Resources.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.Up2Date
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.exe
+G:\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe.config
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Irony.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\QRCoder.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.core.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\XLParser.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.dll
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.pdb
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.xml
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmMain.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.Properties.Resources.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.Up2Date
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.exe
+D:\New folder\HTN\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode\PersonnelManagementByQRorBarcodes\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QRcode\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode\Project01\obj\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Project01.exe.config
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Project01.exe
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Project01.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Aspose.Cells.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\ClosedXML.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\IoTClient.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Irony.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\QRCoder.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.IO.Packaging.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\XLParser.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Aspose.Cells.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\ClosedXML.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\IoTClient.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\IoTClient.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.IO.Packaging.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.FrmMain.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.csproj.Up2Date
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.exe
+C:\Users\Administrator\Desktop\Fix\QRcode\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_7_10\QRcode\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_8_10\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QRcode_8_10_Final\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QRcode_8_10_Final\Project01\obj\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Project01.exe.config
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Project01.exe
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Project01.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.Video.DirectShow.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.Video.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Aspose.Cells.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\ClosedXML.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\DocumentFormat.OpenXml.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\ExcelNumberFormat.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\IoTClient.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Irony.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.WinForms.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.Wpf.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Options.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Newtonsoft.Json.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\QRCoder.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SixLabors.Fonts.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SQLitePCLRaw.core.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Buffers.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Collections.Immutable.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.ComponentModel.Annotations.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.IO.Packaging.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Memory.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Numerics.Vectors.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\XLParser.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\zxing.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\zxing.presentation.dll
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.Video.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\AForge.Video.DirectShow.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Aspose.Cells.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\ClosedXML.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\DocumentFormat.OpenXml.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\ExcelNumberFormat.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\IoTClient.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\IoTClient.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.WinForms.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.WinForms.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.Wpf.pdb
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\LiveCharts.Wpf.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Options.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\Newtonsoft.Json.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\SixLabors.Fonts.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Buffers.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Collections.Immutable.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.IO.Packaging.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Memory.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Numerics.Vectors.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\zxing.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\bin\Debug\zxing.presentation.xml
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.csproj.AssemblyReference.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.AddEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.AddRoleUser.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.AddTypeEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.AddUser.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.FrmHome.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.FrmLogIn.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.ManagerEmployeeFrm.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.FrmReport.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmChild.FrmSetting.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.FrmMain.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.Properties.Resources.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.UC.UcCheckbox.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.UC.UcCheckBoxs.resources
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.csproj.GenerateResource.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.csproj.CoreCompileInputs.cache
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.csproj.Up2Date
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.exe
+E:\T07\He Thong Nhung\QuanLyVaKiemSoatRaVaoCoQuan\QuanLyRaVao\Project01\obj\Debug\Project01.pdb

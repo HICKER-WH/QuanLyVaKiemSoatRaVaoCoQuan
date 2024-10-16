@@ -1,0 +1,11 @@
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\bin\Debug\netstandard2.0\IoTClient.deps.json
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\bin\Debug\netstandard2.0\IoTClient.dll
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\bin\Debug\netstandard2.0\IoTClient.pdb
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\bin\Debug\netstandard2.0\IoTClient.xml
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.csproj.AssemblyReference.cache
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.AssemblyInfoInputs.cache
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.AssemblyInfo.cs
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.csproj.CoreCompileInputs.cache
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.dll
+C:\Users\19146\OneDrive\Máy tính\UCC-QC-Line2\libs\IoTClient-master\IoTClient\obj\Debug\netstandard2.0\IoTClient.pdb

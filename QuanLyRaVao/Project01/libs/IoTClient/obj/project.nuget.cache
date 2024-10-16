@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ps5gZ+cUZjVeEudgYuOMOwFQvyvk6vjfBgMFTBJT8Ji/MLt7eOK5GtmPH9rM6EkIV87T70rS3PVsQ+ZiG+NxVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\19146\\OneDrive\\Máy tính\\UCC-QC-Line2\\libs\\IoTClient-master\\IoTClient\\IoTClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19146\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\microsoft.win32.registry\\4.6.0\\microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\4.6.0-rc2.19462.14\\runtime.linux-arm.runtime.native.system.io.ports.4.6.0-rc2.19462.14.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\4.6.0-rc2.19462.14\\runtime.linux-arm64.runtime.native.system.io.ports.4.6.0-rc2.19462.14.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\4.6.0-rc2.19462.14\\runtime.linux-x64.runtime.native.system.io.ports.4.6.0-rc2.19462.14.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\runtime.native.system.io.ports\\4.6.0\\runtime.native.system.io.ports.4.6.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\4.6.0-rc2.19462.14\\runtime.osx-x64.runtime.native.system.io.ports.4.6.0-rc2.19462.14.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.io.ports\\4.6.0\\system.io.ports.4.6.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.security.accesscontrol\\4.6.0\\system.security.accesscontrol.4.6.0.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\system.security.principal.windows\\4.6.0\\system.security.principal.windows.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
